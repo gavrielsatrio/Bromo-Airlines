@@ -1,0 +1,29 @@
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\bin\Debug\Bromo Airlines.exe.config
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\bin\Debug\Bromo Airlines.exe
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\bin\Debug\Bromo Airlines.pdb
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\bin\Debug\EntityFramework.dll
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\bin\Debug\EntityFramework.SqlServer.dll
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\bin\Debug\EntityFramework.xml
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\bin\Debug\EntityFramework.SqlServer.xml
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo Airlines.csproj.AssemblyReference.cache
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo Airlines.csproj.SuggestedBindingRedirects.cache
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.AdminForms.MasterKodePromoForm.resources
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.AdminForms.UbahStatusPenerbanganForm.resources
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.AdminMainForm.resources
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.CoreForm.resources
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.CustomerForms.BeliTiketForm.resources
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.CustomerForms.ListPenerbanganForm.resources
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.CustomerForms.DetailPenumpangLayout.resources
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.CustomerForms.TiketSayaForm.resources
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.CustomerMainForm.resources
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.DaftarAkunForm.resources
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.LoginForm.resources
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.AdminForms.MasterBandaraForm.resources
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.AdminForms.MasterJadwalPenerbanganForm.resources
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.AdminForms.MasterMaskapaiForm.resources
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo_Airlines.Properties.Resources.resources
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo Airlines.csproj.GenerateResource.cache
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo Airlines.csproj.CoreCompileInputs.cache
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo Airlines.csproj.CopyComplete
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo Airlines.exe
+D:\LKS-Provinsi\LKS\LKS Provinsi JaTim 2023\Desktop\Bromo Airlines\Bromo Airlines\Bromo Airlines\obj\Debug\Bromo Airlines.pdb
